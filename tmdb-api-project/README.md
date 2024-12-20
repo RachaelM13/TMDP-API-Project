@@ -28,3 +28,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Discover the top movies from any year and export them effortlessly! 🎥
+
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
